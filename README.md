@@ -6,13 +6,13 @@ Ever since, I'am improving myself as a skilled software developer. You can find 
 
 ## &#x270d; About me
 
-I graduated with a bachelor's in civil engineering and completed my master's degree on the subject of autonomous vehicles.</br>
-Finished the FullStack Developer Bootcamp at Wissen Akademie. You can check some of our completed projects on my github.
+After earning my bachelor's degree in 2017 and completing my master's degree in 2022, I enrolled in the FullStack Developer Bootcamp at Wissen Akademie. You can review some of my completed projects on my GitHub page.
 
 
 ## 🔧 Technologies & Tools
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -25,6 +25,7 @@ Finished the FullStack Developer Bootcamp at Wissen Akademie. You can check some
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -35,9 +36,6 @@ Finished the FullStack Developer Bootcamp at Wissen Akademie. You can check some
 
 <a href="https://github.com/berkcankucukoglu/berkcankucukoglu" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkcankucukoglu&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
-</a>
-<a href="https://github.com/berkcankucukoglu/berkcankucukoglu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=berkcankucukoglu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="OnurK.Dev's GitHub Stats" />
 </a>
 
 [1.1]: https://raw.githubusercontent.com/berkcankucukoglu/berkcankucukoglu/master/assets/linkedinlogo.png (LinkedIn icon without padding)
